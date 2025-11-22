@@ -9,7 +9,7 @@ This repository contains the scientific and theological work on the **Universal 
 - Biblical concepts of Logos, Adamic language, Babel, and Pentecost
 
 
-## 📄 Included Papers
+## Included Papers
 
 ### 1. Structured Knowledge Accumulation: Real-Time Discovery of the Universal Language Manifold
 Scientific foundation: acoustic stream, entropy reduction, manifold construction, and linguistic universals (Abstract)
