@@ -43,6 +43,59 @@ The research provides scientific interpretations of:
 - **Pentecost** — temporary restoration of direct manifold access  
 
 
+Here is a **clean, professional “Contributions” section** written in the same style as the rest of your README.
+It fits perfectly under the “Included Papers” section.
+
+You can paste it directly into your repository.
+
+---
+
+## Contributions
+
+The Universal Language Manifold project is an interdisciplinary framework at the intersection of:
+
+* information geometry
+* acoustic physics
+* real-time entropy learning
+* linguistics
+* theology of speech
+* Riemannian neural fields
+
+Contributions are welcome from researchers, developers, and readers working in any of these areas.
+
+### We welcome contributions in the following forms:
+
+####  1. Research & Theory
+
+* Extensions of the SKA learning law
+* Riemannian formulations, geodesic analysis, or manifold curvature studies
+* Links to cognitive science, linguistics, or theology of language
+* Explorations of Logos, Adamic language, or Babel in relation to geometry
+
+####  2. Experiments & Code
+
+* Acoustic entropy extraction from raw speech
+* Real-time manifold reconstruction algorithms
+* Visualizations of geodesic learning paths
+* Datasets, annotations, or numerical experiments
+
+####  3. Writing & Documentation
+
+* Improvements to the papers or explanatory notes
+* Translations into other languages
+* Summaries, diagrams, or teaching materials
+
+####  4. Discussions & Interpretations
+
+* Theological insights about Logos, Adamic language, Babel, Pentecost, and the Spirit
+* Philosophical or historical perspectives on language origins
+* Comparative analysis with modern linguistics
+
+
+
+
+
+
  
 ##  Contact
 Bouarfa Mahi — info@quantiota.org
