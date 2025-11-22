@@ -26,8 +26,7 @@ This geometry arises from:
 - **forward-only entropy reduction**, and  
 - **the SKA learning principle**.
 
-Spoken languages differ,  
-but the **manifold underneath them is universal**.
+Spoken languages differ, but the **manifold underneath them is universal**.
 
 ##  Theological Alignment
 
