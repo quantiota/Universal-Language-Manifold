@@ -20,7 +20,7 @@ Six-part series linking Genesis, Logos, Adamic naming, Babel, and Pentecost to t
 ### 3. Structured Knowledge Accumulation: Geodesic Learning Paths and Architecture Discovery in Riemannian Neural Fields
 
 Mathematical foundation of SKA geometry: Riemannian metrics, geodesic learning, entropy-driven architecture emergence, and curvature-based knowledge propagation.
-(December)
+(2026)
 
 ## Core Idea
 
