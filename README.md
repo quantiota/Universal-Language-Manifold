@@ -17,6 +17,11 @@ Scientific foundation: acoustic stream, entropy reduction, manifold construction
 ### 2. The Universal Language Manifold and the Theology of Speech
 Six-part series linking Genesis, Logos, Adamic naming, Babel, and Pentecost to the geometry of speech.  
 
+### 3. Structured Knowledge Accumulation: Geodesic Learning Paths and Architecture Discovery in Riemannian Neural Fields
+
+Mathematical foundation of SKA geometry: Riemannian metrics, geodesic learning, entropy-driven architecture emergence, and curvature-based knowledge propagation.
+(December)
+
 ## Core Idea
 
 All human languages are **projections of a single geometry of meaning**.  
