@@ -43,13 +43,6 @@ The research provides scientific interpretations of:
 - **Pentecost** — temporary restoration of direct manifold access  
 
 
-Here is a **clean, professional “Contributions” section** written in the same style as the rest of your README.
-It fits perfectly under the “Included Papers” section.
-
-You can paste it directly into your repository.
-
----
-
 ## Contributions
 
 The Universal Language Manifold project is an interdisciplinary framework at the intersection of:
