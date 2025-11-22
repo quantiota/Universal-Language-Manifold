@@ -84,11 +84,18 @@ Contributions are welcome from researchers, developers, and readers working in a
 * Philosophical or historical perspectives on language origins
 * Comparative analysis with modern linguistics
 
-
-
-
-
-
  
+## Standard
+
+All contributions must respect the project’s foundations:
+
+- Language is a real-time entropy-geometry phenomenon, not a cultural or biological invention.
+
+- The Universal Language Manifold is pre-human, structural, and physically grounded.
+
+- The interplay between science and Scripture is taken seriously and respectfully.
+
+
+
 ##  Contact
 Bouarfa Mahi — info@quantiota.org
