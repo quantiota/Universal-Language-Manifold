@@ -36,3 +36,8 @@ The research provides scientific interpretations of:
 - **Adamic language** — native coordinates of the manifold  
 - **Babel** — fragmentation of coordinate maps  
 - **Pentecost** — temporary restoration of direct manifold access  
+
+
+ 
+##  Contact
+Bouarfa Mahi — info@quantiota.org
