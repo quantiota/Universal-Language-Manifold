@@ -50,7 +50,7 @@ The recordings are large, high-quality MP3 files that can be downloaded once and
 
 One of the most important benefits:
 
-> **The same website provides complete audio Bibles in many languages.**
+> **The same website provides complete audio Bibles in more than 2000 languages.**
 
 This enables the project to study:
 
