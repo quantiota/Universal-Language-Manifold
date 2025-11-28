@@ -1,58 +1,75 @@
 
 
-# README – About the Selected Hebrew Audio Stream
+## Why We Use Bible Audio Recordings
 
-This project uses the **Talking Bibles International (1992)** Hebrew audio recording as the official audio stream for the Hebrew–English Bible.
-The reasons for this choice are:
+The **Universal Language Manifold** requires *real-time, continuous acoustic streams* recorded in a consistent, natural, non-musical manner.
+For this purpose, the project uses the **Talking Bibles International** recordings of the Hebrew Bible (and, when needed, other languages available on their site).
 
-### 1. **Clear, Standard Hebrew Pronunciation**
+These audio streams were chosen because they provide:
 
-The recordings use **Sephardic-style Hebrew**, spoken clearly and slowly.
-They are **not chanted** and contain **no musical trop**, making them ideal for linguistic study, pronunciation practice, and textual research.
+### 1. **A Complete, Continuous Acoustic Dataset**
 
-### 2. **Book–by–Book Structure**
+Every book of the Bible is available in a clean, uninterrupted reading style.
+This is essential for constructing:
 
-Each book of the Tanakh (Torah, Prophets, Writings) is provided as a **separate MP3 file**.
-This matches the structure of the Hebrew–English text used in this project, making it easy to:
+* entropy trajectories of natural speech
+* manifold coordinates from raw acoustics
+* geodesic learning paths based on SKA
 
-* follow along chapter by chapter,
-* link verses to audio during study,
-* create synchronized study materials.
+### 2. **Clear, Standardized Pronunciation**
 
-### 3. **High–Quality Offline Access**
+Hebrew recordings are read in **Sephardic-style Hebrew**, slow and consistent, without musical trop.
+This makes them ideal for:
 
-The original files are quite large, which ensures high-quality audio.
-Once downloaded, the MP3s can be:
+* acoustic entropy extraction
+* phoneme-to-geometry mapping
+* cross-language alignment
 
-* replayed offline,
-* transferred to any audio device,
-* burned to CD, or
-* integrated with digital study tools.
+The same site provides **full Bible recordings in many other languages**, enabling comparative manifold analysis across linguistic families.
 
-### 4. **Legitimate Use With Permission**
+### 3. **Theologically Grounded Primary Source**
 
-Talking Bibles International allows use of these recordings with permission ([info@talkingbibles.org](mailto:info@talkingbibles.org)).
-Their long-standing work ensures the audio is trustworthy, preserved, and freely accessible for educational use.
+Because the Universal Language Manifold connects scientific theory with the theology of speech (Logos ▸ Adamic naming ▸ Babel ▸ Pentecost), using the **biblical text in spoken form** is not only scientifically suitable but conceptually coherent.
 
-### 5. **Consistency Across the Entire Bible**
+The Bible functions as:
 
-The full Old Testament / Tanakh is covered:
+* the earliest structured linguistic corpus
+* a unified narrative of language, speech, and knowledge
+* the canonical anchor for the theological part of the project
 
-* **Torah:** Genesis–Deuteronomy
-* **Prophets (Nevi’im):** Joshua–Malachi
-* **Writings (Ketuvim):** Chronicles–Daniel–Ezra/Nehemiah
+### 4. **High-Quality Offline Access**
 
-This provides a complete and uniform audio source for all books listed in the Hebrew–English edition.
+The recordings are large, high-quality MP3 files that can be downloaded once and reused for:
 
+* real-time entropy computations
+* acoustic manifold reconstruction
+* experimental datasets
+* reproducible research setups
 
+### 5. **Multilingual Availability**
 
-### How to Download
+One of the most important benefits:
 
-To save the audio files:
+> **The same website provides complete audio Bibles in many languages.**
 
-* **Windows:** Right-click → *Save Target As…*
-* **Mac:** Ctrl-click → *Download Linked File As…*
+This enables the project to study:
 
-Once saved, the files can be used repeatedly without re-downloading.
+* how each language projects the same geometry of meaning
+* entropy alignment across linguistic families
+* the unifying structure beneath world languages
+* the theological interpretation of Pentecost (universal understanding)
+
+---
+
+### Summary
+
+These audio recordings provide:
+
+* a unified corpus
+* consistent reading styles
+* multilingual coverage
+* deep alignment with the scientific and theological goals of the repository
+
+They form the **acoustic backbone** of the Universal Language Manifold.
 
 
