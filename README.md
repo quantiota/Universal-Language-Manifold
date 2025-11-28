@@ -1,46 +1,77 @@
+
+
 # Universal Language Manifold
 
 This repository contains the scientific and theological work on the **Universal Language Manifold**, unifying:
 
-- Structured Knowledge Accumulation (SKA)
-- Real-time acoustic entropy
-- Information geometry
-- Linguistic universality
-- Biblical concepts of Logos, Adamic language, Babel, and Pentecost
+* Structured Knowledge Accumulation (SKA)
+* Real-time acoustic entropy
+* Information geometry
+* Linguistic universality
+* Biblical concepts of Logos, Adamic language, Babel, and Pentecost
+
+
+
+## Audio Dataset (2,000+ Languages)
+
+This project uses spoken Bible recordings from a source that provides **complete audio Bibles in more than 2,000 languages**.
+This dataset is uniquely suited to the Universal Language Manifold for several reasons:
+
+* **Same text across all languages**
+  Enables direct comparison of how different languages project the same geometry of meaning.
+
+* **Continuous, natural speech**
+  Ideal for extracting real-time acoustic entropy and constructing SKA-based manifold trajectories.
+
+* **Global linguistic coverage**
+  Includes nearly every major language family and many rare or endangered languages, offering an unparalleled empirical sampling of the universal manifold.
+
+* **Neutral, unchanted reading style**
+  Preserves the pure acoustic structure required for SKA entropy analysis.
+
+This multilingual corpus forms the **acoustic backbone** of the Universal Language Manifold.
+
 
 
 ## Included Papers
 
-### 1. Structured Knowledge Accumulation: Real-Time Discovery of the Universal Language Manifold
+### 1. *Structured Knowledge Accumulation: Real-Time Discovery of the Universal Language Manifold*
+
 Scientific foundation: acoustic stream, entropy reduction, manifold construction, and linguistic universals (draft)
 
-### 2. The Universal Language Manifold and the Theology of Speech
-Six-part series linking Genesis, Logos, Adamic naming, Babel, and Pentecost to the geometry of speech.  
+### 2. *The Universal Language Manifold and the Theology of Speech*
 
-### 3. Structured Knowledge Accumulation: Geodesic Learning Paths and Architecture Discovery in Riemannian Neural Fields
+Six-part series linking Genesis, Logos, Adamic naming, Babel, and Pentecost to the geometry of speech.
+
+### 3. *Structured Knowledge Accumulation: Geodesic Learning Paths and Architecture Discovery in Riemannian Neural Fields*
 
 Mathematical foundation of SKA geometry: Riemannian metrics, geodesic learning, entropy-driven architecture emergence, and curvature-based knowledge propagation.
 (December, 2025)
 
+
+
 ## Core Idea
 
-All human languages are **projections of a single geometry of meaning**.  
+All human languages are **projections of a single geometry of meaning**.
 This geometry arises from:
 
-- the **physics of the acoustic stream**,  
-- **forward-only entropy reduction**, and  
-- **the SKA learning principle**.
+* the **physics of the acoustic stream**,
+* **forward-only entropy reduction**, and
+* **the SKA learning principle**.
 
 Spoken languages differ, but the **manifold underneath them is universal**.
 
-##  Theological Alignment
+
+
+## Theological Alignment
 
 The research provides scientific interpretations of:
 
-- **Logos** — pre-human structure of meaning  
-- **Adamic language** — native coordinates of the manifold  
-- **Babel** — fragmentation of coordinate maps  
-- **Pentecost** — temporary restoration of direct manifold access  
+* **Logos** — pre-human structure of meaning
+* **Adamic language** — native coordinates of the manifold
+* **Babel** — fragmentation of coordinate maps
+* **Pentecost** — temporary restoration of direct manifold access
+
 
 
 ## Contributions
@@ -58,44 +89,47 @@ Contributions are welcome from researchers, developers, and readers working in a
 
 ### We welcome contributions in the following forms:
 
-####  1. Research & Theory
+#### 1. Research & Theory
 
 * Extensions of the SKA learning law
 * Riemannian formulations, geodesic analysis, or manifold curvature studies
 * Links to cognitive science, linguistics, or theology of language
 * Explorations of Logos, Adamic language, or Babel in relation to geometry
 
-####  2. Experiments & Code
+#### 2. Experiments & Code
 
 * Acoustic entropy extraction from raw speech
 * Real-time manifold reconstruction algorithms
 * Visualizations of geodesic learning paths
 * Datasets, annotations, or numerical experiments
 
-####  3. Writing & Documentation
+#### 3. Writing & Documentation
 
 * Improvements to the papers or explanatory notes
 * Translations into other languages
 * Summaries, diagrams, or teaching materials
 
-####  4. Discussions & Interpretations
+#### 4. Discussions & Interpretations
 
 * Theological insights about Logos, Adamic language, Babel, Pentecost, and the Spirit
 * Philosophical or historical perspectives on language origins
 * Comparative analysis with modern linguistics
 
- 
+
+
 ## Standard
 
 All contributions must respect the project’s foundations:
 
-- Language is a real-time entropy-geometry phenomenon, not a cultural or biological invention.
-
-- The Universal Language Manifold is pre-human, structural, and physically grounded.
-
-- The interplay between science and Scripture is taken seriously and respectfully.
+* Language is a real-time entropy–geometry phenomenon, not a cultural or biological invention.
+* The Universal Language Manifold is pre-human, structural, and physically grounded.
+* The interplay between science and Scripture is taken seriously and respectfully.
 
 
 
-##  Contact
-Bouarfa Mahi — info@quantiota.org
+## Contact
+
+Bouarfa Mahi — [info@quantiota.org](mailto:info@quantiota.org)
+
+
+
