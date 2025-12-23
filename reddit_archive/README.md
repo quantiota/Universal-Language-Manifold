@@ -1318,7 +1318,7 @@ ULM gives a scientifically grounded boundary:
 
 This is not a temporary limitation. It is a structural one.
 
-# Conclusion: ULM Resets the AI Debate
+## Conclusion: ULM Resets the AI Debate
 
 For 70 years, AI research oscillated between:
 
