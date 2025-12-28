@@ -132,4 +132,9 @@ All contributions must respect the project’s foundations:
 Bouarfa Mahi — [info@quantiota.org](mailto:info@quantiota.org)
 
 
+## License Notice
+This repository and its contents are licensed under a Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License.
+
+No redistribution, reproduction, or modification is permitted without prior written permission from Bouarfa Mahi | Quantiota.
+
 
