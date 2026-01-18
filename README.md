@@ -137,4 +137,6 @@ This repository and its contents are licensed under a Creative Commons Attributi
 
 No redistribution, reproduction, or modification is permitted without prior written permission from Bouarfa Mahi | Quantiota.
 
+Free for academic and non-commercial use with attribution, no derivative works.
+
 
