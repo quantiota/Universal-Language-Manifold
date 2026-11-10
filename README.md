@@ -1,6 +1,11 @@
-
-
 # Universal Language Manifold
+
+
+<p align="center">
+  <a href="https://www.amazon.com/dp/B0HQJR3PY7"><img src="https://raw.githubusercontent.com/quantiota/Kindle-SKA-Labs/main/assets/ska-series-banner.jpg" alt="Foundations of Structured Knowledge Accumulation — the textbook series" width="100%"></a>
+</p>
+
+<p align="center"><b>Foundations of Structured Knowledge Accumulation</b> — Parts I–III on Kindle, Part IV on pre-order · <a href="https://www.amazon.com/dp/B0HQJR3PY7">See the series on Amazon</a></p>
 
 This repository contains the scientific and theological work on the **Universal Language Manifold**, unifying:
 
