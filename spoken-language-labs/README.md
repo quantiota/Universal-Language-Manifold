@@ -44,22 +44,25 @@ $$
 
 all 16 harmonics together, with s the scale (`h1` in a file name: harmonic 1 alone, u_n = Re ċ_1,n). The learner's space is (z, ż, P), as in the SKA-ECG work: z = ‖Z‖ the knowledge, ż = dz/dt, P = exp(−|ΔH/H|) with H the entropy.
 
-First verse: Gen 1:1, 4.77 s of the recording (11.16–15.93 s), 554 waves.
+Verses so far: Gen 1:1, 4.77 s of the recording (11.16–15.93 s), 554 waves; Gen 1:2, 10.70 s (17.02–27.72 s), 1,136 waves.
 
-| scale | figure | results |
+| verse, scale | figure | results |
 |---|---|---|
-| 1 | [`ska_Gen.1.1_hall_scale1.png`](lab3-verse-learning/figures/ska_Gen.1.1_hall_scale1.png) | [`ska_Gen.1.1_hall_scale1.csv`](lab3-verse-learning/results/ska_Gen.1.1_hall_scale1.csv) |
-| 10 | [`ska_Gen.1.1_hall_scale10.png`](lab3-verse-learning/figures/ska_Gen.1.1_hall_scale10.png) | [`ska_Gen.1.1_hall_scale10.csv`](lab3-verse-learning/results/ska_Gen.1.1_hall_scale10.csv) |
-| 25 | [`ska_Gen.1.1_hall_scale25.png`](lab3-verse-learning/figures/ska_Gen.1.1_hall_scale25.png) | [`ska_Gen.1.1_hall_scale25.csv`](lab3-verse-learning/results/ska_Gen.1.1_hall_scale25.csv) |
-| 100 | [`ska_Gen.1.1_hall_scale100.png`](lab3-verse-learning/figures/ska_Gen.1.1_hall_scale100.png) | [`ska_Gen.1.1_hall_scale100.csv`](lab3-verse-learning/results/ska_Gen.1.1_hall_scale100.csv) |
-| 25, harmonic 1 | [`ska_Gen.1.1_h1_scale25.png`](lab3-verse-learning/figures/ska_Gen.1.1_h1_scale25.png) | [`ska_Gen.1.1_h1_scale25.csv`](lab3-verse-learning/results/ska_Gen.1.1_h1_scale25.csv) |
+| Gen 1:1, 1 | [`ska_Gen.1.1_hall_scale1.png`](lab3-verse-learning/figures/ska_Gen.1.1_hall_scale1.png) | [`ska_Gen.1.1_hall_scale1.csv`](lab3-verse-learning/results/ska_Gen.1.1_hall_scale1.csv) |
+| Gen 1:1, 10 | [`ska_Gen.1.1_hall_scale10.png`](lab3-verse-learning/figures/ska_Gen.1.1_hall_scale10.png) | [`ska_Gen.1.1_hall_scale10.csv`](lab3-verse-learning/results/ska_Gen.1.1_hall_scale10.csv) |
+| Gen 1:1, 25 | [`ska_Gen.1.1_hall_scale25.png`](lab3-verse-learning/figures/ska_Gen.1.1_hall_scale25.png) | [`ska_Gen.1.1_hall_scale25.csv`](lab3-verse-learning/results/ska_Gen.1.1_hall_scale25.csv) |
+| Gen 1:1, 100 | [`ska_Gen.1.1_hall_scale100.png`](lab3-verse-learning/figures/ska_Gen.1.1_hall_scale100.png) | [`ska_Gen.1.1_hall_scale100.csv`](lab3-verse-learning/results/ska_Gen.1.1_hall_scale100.csv) |
+| Gen 1:1, 25, harmonic 1 | [`ska_Gen.1.1_h1_scale25.png`](lab3-verse-learning/figures/ska_Gen.1.1_h1_scale25.png) | [`ska_Gen.1.1_h1_scale25.csv`](lab3-verse-learning/results/ska_Gen.1.1_h1_scale25.csv) |
+| Gen 1:2, 1 | [`ska_Gen.1.2_hall_scale1.png`](lab3-verse-learning/figures/ska_Gen.1.2_hall_scale1.png) | [`ska_Gen.1.2_hall_scale1.csv`](lab3-verse-learning/results/ska_Gen.1.2_hall_scale1.csv) |
 
 **Cubes** (scale 1). Each is one standalone HTML file: download it and open it in a browser, or in a headset (WebXR). Colours: the voiced stretches of the verse, split at gaps of more than 20 ms, dark = early, light = late. The replays play the verse with the narrator's voice; the points appear wave by wave at the time they are spoken (1× = real time).
 
-| | cube | replay with the voice |
-|---|---|---|
-| (z, ż, P) | [`ska_Gen.1.1_hall_scale1_vr.html`](lab3-verse-learning/vr/ska_Gen.1.1_hall_scale1_vr.html) | [`ska_Gen.1.1_hall_scale1_vr_replay.html`](lab3-verse-learning/vr/ska_Gen.1.1_hall_scale1_vr_replay.html) |
-| (z, ż, H) | [`ska_Gen.1.1_hall_scale1_entropy_vr.html`](lab3-verse-learning/vr/ska_Gen.1.1_hall_scale1_entropy_vr.html) | [`ska_Gen.1.1_hall_scale1_entropy_vr_replay.html`](lab3-verse-learning/vr/ska_Gen.1.1_hall_scale1_entropy_vr_replay.html) |
+| verse | | cube | replay with the voice |
+|---|---|---|---|
+| Gen 1:1 | (z, ż, P) | [`ska_Gen.1.1_hall_scale1_vr.html`](lab3-verse-learning/vr/ska_Gen.1.1_hall_scale1_vr.html) | [`ska_Gen.1.1_hall_scale1_vr_replay.html`](lab3-verse-learning/vr/ska_Gen.1.1_hall_scale1_vr_replay.html) |
+| Gen 1:1 | (z, ż, H) | [`ska_Gen.1.1_hall_scale1_entropy_vr.html`](lab3-verse-learning/vr/ska_Gen.1.1_hall_scale1_entropy_vr.html) | [`ska_Gen.1.1_hall_scale1_entropy_vr_replay.html`](lab3-verse-learning/vr/ska_Gen.1.1_hall_scale1_entropy_vr_replay.html) |
+| Gen 1:2 | (z, ż, P) | [`ska_Gen.1.2_hall_scale1_vr.html`](lab3-verse-learning/vr/ska_Gen.1.2_hall_scale1_vr.html) | [`ska_Gen.1.2_hall_scale1_vr_replay.html`](lab3-verse-learning/vr/ska_Gen.1.2_hall_scale1_vr_replay.html) |
+| Gen 1:2 | (z, ż, H) | [`ska_Gen.1.2_hall_scale1_entropy_vr.html`](lab3-verse-learning/vr/ska_Gen.1.2_hall_scale1_entropy_vr.html) | [`ska_Gen.1.2_hall_scale1_entropy_vr_replay.html`](lab3-verse-learning/vr/ska_Gen.1.2_hall_scale1_entropy_vr_replay.html) |
 
 - `plot_verse.py`: the figure of a run (x, H and P against time, and the space (z, ż, P)).
 - `build_verse_vr.py`: the cube (z, ż, P), from `vr/ska_vr_template.html`, the template of the SKA-ECG cubes.

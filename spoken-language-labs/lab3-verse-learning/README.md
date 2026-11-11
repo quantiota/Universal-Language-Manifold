@@ -1,13 +1,15 @@
 # Lab 3 — learning one verse
 
-One verse, one fresh SKA learner: one step per wave (Lab 1) inside the verse (Lab 2), with the real time between waves; the learner reads the change of the 16 phasors of each wave. First verse: Gen 1:1.
+One verse, one fresh SKA learner: one step per wave (Lab 1) inside the verse (Lab 2), with the real time between waves; the learner reads the change of the 16 phasors of each wave. Verses so far: Gen 1:1 and Gen 1:2.
 
 **Cubes** (scale 1): download a file and open it in a browser, or in a headset (WebXR). The replays play the verse with the narrator's voice, the points appearing wave by wave as they are spoken.
 
-| | cube | replay with the voice |
-|---|---|---|
-| (z, ż, P) | [`ska_Gen.1.1_hall_scale1_vr.html`](vr/ska_Gen.1.1_hall_scale1_vr.html) | [`ska_Gen.1.1_hall_scale1_vr_replay.html`](vr/ska_Gen.1.1_hall_scale1_vr_replay.html) |
-| (z, ż, H) | [`ska_Gen.1.1_hall_scale1_entropy_vr.html`](vr/ska_Gen.1.1_hall_scale1_entropy_vr.html) | [`ska_Gen.1.1_hall_scale1_entropy_vr_replay.html`](vr/ska_Gen.1.1_hall_scale1_entropy_vr_replay.html) |
+| verse | | cube | replay with the voice |
+|---|---|---|---|
+| Gen 1:1 | (z, ż, P) | [`ska_Gen.1.1_hall_scale1_vr.html`](vr/ska_Gen.1.1_hall_scale1_vr.html) | [`ska_Gen.1.1_hall_scale1_vr_replay.html`](vr/ska_Gen.1.1_hall_scale1_vr_replay.html) |
+| Gen 1:1 | (z, ż, H) | [`ska_Gen.1.1_hall_scale1_entropy_vr.html`](vr/ska_Gen.1.1_hall_scale1_entropy_vr.html) | [`ska_Gen.1.1_hall_scale1_entropy_vr_replay.html`](vr/ska_Gen.1.1_hall_scale1_entropy_vr_replay.html) |
+| Gen 1:2 | (z, ż, P) | [`ska_Gen.1.2_hall_scale1_vr.html`](vr/ska_Gen.1.2_hall_scale1_vr.html) | [`ska_Gen.1.2_hall_scale1_vr_replay.html`](vr/ska_Gen.1.2_hall_scale1_vr_replay.html) |
+| Gen 1:2 | (z, ż, H) | [`ska_Gen.1.2_hall_scale1_entropy_vr.html`](vr/ska_Gen.1.2_hall_scale1_entropy_vr.html) | [`ska_Gen.1.2_hall_scale1_entropy_vr_replay.html`](vr/ska_Gen.1.2_hall_scale1_entropy_vr_replay.html) |
 
 - `results/`: one CSV per run (verse, harmonics, scale), one row per step
 - `figures/`: one figure per run
