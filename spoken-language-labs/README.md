@@ -78,7 +78,7 @@ The SKA engine is not published; its results are in `results/`, one row per step
 | `t_s`, `duration_ms` | the start of the wave in the recording (s) and its duration |
 | `c_cos`, `c_sin` | the phasor of the wave (for `all`: the sum of its 16 phasors) |
 | `ret`, `x_input` | the input u_n and x_n = σ(s·u_n) |
-| `knowledge`, `entropy`, `matrix_size` | the learner's output: z = ‖Z‖, H, and the size of its matrix |
+| `knowledge`, `entropy` | the learner's output: z = ‖Z‖ and H |
 | `delta_t` | the time since the previous wave (s), gaps included |
 | `P`, `zdot` | P = exp(−\|ΔH/H\|) and ż = dz/dt |
 
